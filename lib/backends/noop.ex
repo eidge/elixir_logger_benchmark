@@ -1,4 +1,4 @@
-defmodule Backends.NoHandle do
+defmodule Backends.Noop do
   @moduledoc """
   NoHandle implements a GenEvent handler for the elixir Logger.
 
